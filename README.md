@@ -1,4 +1,4 @@
-# Scriptism – Simple
+# Scriptism – Lesson 2
 
 A tiny command-line .... app that explains string methods like strip(), upper(), capitalize() etc.
 
