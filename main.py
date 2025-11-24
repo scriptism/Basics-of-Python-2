@@ -58,6 +58,7 @@ print("Hello\0World!") # null character
 print("Hello\U0001F600World!")  # Unicode character (grinning face)
 print("Hello\N{GRINNING FACE}World!")  # Named Unicode character (
 print("Salam\033[1;32;40m Amin!\033[0m")  # ANSI escape code for colored text
+print("Hello\x20World!")
 
 # hexadecimal value 
 print("\x48\x65\x6c\x6c\x6f")  # prints "Hello"

@@ -1,6 +1,6 @@
 # Scriptism – Basics 2
 
-A tiny command-line app that explains string methods like strip(), upper(), capitalize(), etc.
+A tiny command-line app that deals with string methods like strip(), upper(), capitalize(), etc.
 
 ## How to run
 
