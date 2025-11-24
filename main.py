@@ -52,7 +52,7 @@ print("Name\tAge\tCity") # tab
 print("Hello\bWorld!") # backspace
 print("Hello\rWorld!") # carriage return
 print("Hello\vWorld!")  # vertical tab
-print("Hello\fWorld!") # form feed
+# print("Hello\fWorld!") # form feed
 print("Hello\aWorld!") # alert (bell)
 print("Hello\0World!") # null character
 print("Hello\U0001F600World!")  # Unicode character (grinning face)
