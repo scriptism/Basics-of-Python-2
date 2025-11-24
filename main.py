@@ -20,6 +20,7 @@ print(text[-6:-1])
 print(text.upper())
 print(text.lower()) 
 print(text.capitalize())
+print(text.title())
 # Remove Whitespace
 text2 = "   hello world!   "
 print(text2)
