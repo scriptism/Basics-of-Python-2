@@ -3,6 +3,8 @@ print(len(text))
 # Slicing
 print(text[6])
 print(text[0:12])
+print(text[0:5])
+
 # Slice From the Start
 print(text[:6])
 print(text[:9])
